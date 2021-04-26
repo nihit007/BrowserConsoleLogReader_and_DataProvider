@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-26T16:44:09 IST" name="Default suite" finished-at="2021-04-26T16:44:16 IST" duration-ms="6615">
+    <groups>
+    </groups>
+    <test started-at="2021-04-26T16:44:09 IST" name="Default test" finished-at="2021-04-26T16:44:16 IST" duration-ms="6615">
+      <class name="dp.Rc.ReadConsole">
+        <test-method signature="ReadBrowserLogs()[pri:0, instance:dp.Rc.ReadConsole@51dcb805]" started-at="2021-04-26T16:44:09 IST" name="ReadBrowserLogs" finished-at="2021-04-26T16:44:16 IST" duration-ms="6566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadBrowserLogs -->
+      </class> <!-- dp.Rc.ReadConsole -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
